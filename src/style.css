@@ -1,27 +1,6 @@
 /* styles go here */
-body {
-  font-family: Verdana, Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  font-style: normal;
-}
-
-form {
-  display: block;
-  margin-top: 1em;
-}
-
 .fieldset {
   margin-bottom: 20px;
-}
-
-legend {
-  display: block;
-  padding-inline-start: 2px;
-  padding-inline-end: 2px;
-  border-width: initial;
-  border-style: none;
-  border-color: initial;
-  border-image: initial;
 }
 
 label {
