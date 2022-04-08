@@ -8,13 +8,3 @@ label {
   display: block;
   margin-bottom: 10px;
 }
-
-select {
-  appearance: auto;
-  align-items: flex-start;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  vertical-align: text-bottom;
-  white-space: nowrap;
-  border-radius: 2px;
-}
